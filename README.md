@@ -1,4 +1,4 @@
-# react url-short backend
+# Memory Game Node Backend
 
 ## Prepare DB
 ```
