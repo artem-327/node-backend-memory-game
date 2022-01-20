@@ -1,0 +1,14 @@
+{
+  "name": "node-backend-memory-game",
+  "version": "1.0.0",
+  "description": "Memory game",
+  "main": "server.js",
+  "author": "Artem",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "pg": "^8.7.1"
+  }
+}
